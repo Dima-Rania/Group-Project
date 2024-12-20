@@ -92,34 +92,56 @@ After we had done the curated dataset, we can now write an algorithm in simple p
 1️⃣ **Predicting student performance:**
 
 Here we use a regression model to predict the average_score
+
 . Load curated dataset
+
 . Define the target variable as “average_score”
+
 . Define more variables as “gender”, “race_ethnicity”, “parental_level_of_education”, “lunch”, “test_preparation_course”
+
 . Split data into training and testing sets
+
 . Train a regression model on training data
+
 . Test model on test data
+
 . Output model accuracy
+
 
 2️⃣ **Analysis and comparison of performance differences among students:**
 
 Here we write a pseudocode for comparing average scores between students who did and did not complete the test preparation course:
+
 ·   Load curated dataset
+
 ·   Split data into two groups:
-·   Group 1: Students who complete test preparation
-·   Group 2: Students who did not complete test preparation
+
+  - Group 1: Students who complete test preparation
+
+  - Group 2: Students who did not complete test preparation
+
 ·   For each score type (math, reading, writing):
-·   Calculate the average score for Group 1 and Group 2
-·   Compare the two average results to see if the differences are important
+
+  - Calculate the average score for Group 1 and Group 2
+
+  - Compare the two average results to see if the differences are important
+
 ·   Output average differences and importance
 
 3️⃣ **Impact of social factors on students’ scores:**
 
 Here we analyze the data to check how race/ethnicity factors affect the students’ scores:
+
 ·   Load curated dataset
+
 ·   Group data bt race_ethnicity and parental_level_of_education
+
 ·   Calculate average scores for each group
+
 ·   Test if the differences between the groups are important
+
 ·   Output average scores and the test results
+
 
 
 
