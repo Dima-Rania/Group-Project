@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithm - Student Performance Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="dataset.html">Dataset</a>
+            <a href="algorithm.html">Algorithm</a>
+            <a href="people.html">Team</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Our Algorithm</h1>
+        <p>This project uses simple steps to study student performance data. Below are the main questions we tried to answer and how we approached each one.</p>
+
+        <section>
+            <h2>1. Predicting Student Scores</h2>
+            <p>We wanted to see if we could predict a student's total score based on different factors, like:</p>
+            <ul>
+                <li>Parental education level</li>
+                <li>If they took a test prep course</li>
+                <li>The type of lunch they receive</li>
+            </ul>
+            <p><b>Steps:</b></p>
+            <ol>
+                <li>First, we picked the details (like test prep, lunch type) we wanted to use from the data.</li>
+                <li>We split the data into two parts: one part to learn from and one part to test.</li>
+                <li>The algorithm learns how each factor relates to the scores.</li>
+                <li>It then uses this information to predict scores for new students.</li>
+            </ol>
+            <p>This helped us guess a student's performance based on their background details.</p>
+        </section>
+
+        <section>
+            <h2>2. Checking Performance Differences</h2>
+            <p>We also wanted to see if students who took the test prep course scored higher than those who didn’t. Here’s how we did it:</p>
+            <p><b>Steps:</b></p>
+            <ol>
+                <li>We divided students into two groups: those who did the test prep and those who didn’t.</li>
+                <li>Next, we calculated the average score for each group.</li>
+                <li>The algorithm then compared the average scores.</li>
+                <li>If there was a big difference, it could mean that the test prep course helped improve scores.</li>
+            </ol>
+            <p>This helped us see if taking the test prep course made a difference in scores.</p>
+        </section>
+
+        <section>
+            <h2>3. Looking at Social and Family Factors</h2>
+            <p>We also looked at factors like race, parental education, and lunch type to see if they affect scores. Here’s how we approached it:</p>
+            <p><b>Steps:</b></p>
+            <ol>
+                <li>We grouped students based on factors like race, parental education, and lunch type.</li>
+                <li>Then we calculated the average score in each group.</li>
+                <li>We compared these averages to see if some groups had higher or lower scores than others.</li>
+                <li>This helped us understand if these social factors have any effect on scores.</li>
+            </ol>
+            <p>This allowed us to see if factors like family background relate to student performance.</p>
+        </section>
+    </main>
+</body>
+</html>
