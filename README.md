@@ -40,7 +40,8 @@ Once you know how your data should be modelled, you can put it into practice. If
 
 ### 💡**Answer:**
  
-1️⃣ Create a new column for performance levels: 
+1️⃣ **Create a new column for performance levels:**
+
 We can create categories for performance such as “High”, “Medium”, and “Low” based on the average score.
 
 #### **Python Code**:
@@ -69,9 +70,12 @@ Before we added in the default argument a default=’Unkonwn’ argument to the 
 So to fix this issue we added a default value (‘Unknown’) which helps in case none of the conditions are met, so we ensure that the program will still work if something goes wrong by putting ‘Unknown’ as the value.
 
 
-2️⃣ Clean up categorical data: 
+2️⃣ **Clean up categorical data:**
+
 We make sure that our categorical fields such as race/ ethnicity, and parental education have consistent values.
-3️⃣ Save the cleaned data: 
+
+3️⃣ **Save the cleaned data:**
+
 After we finished and cleaned our data, we saved the updated dataset.
 
 
