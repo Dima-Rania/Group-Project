@@ -1,4 +1,4 @@
-# Group-Project
+# Group-Project's Q&A
 
 ## **Assignment 2: Algorithm Design (Project Work)**
 
