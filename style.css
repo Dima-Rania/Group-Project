@@ -1,0 +1,127 @@
+body {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #f4f4f9;
+   color: #333;
+   line-height: 1.6;
+}
+/* Headlines */
+h1, h2 {
+   color: #333;
+   text-align: center;
+}
+h1 {
+   font-size: 2em;
+   margin-top: 20px;
+}
+h2 {
+   font-size: 1.5em;
+   margin: 20px 0;
+}
+/* Navigation */
+nav {
+   background-color: #000000;
+   padding: 10px;
+   text-align: center;
+}
+nav a {
+   text-decoration: none;
+   color: #fff;
+   font-weight: bold;
+   margin: 0 15px;
+   padding: 8px 15px;
+   border-radius: 5px;
+}
+nav a:hover {
+   background-color: #0059b3;
+}
+/* Main content */
+main {
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+   background-color: #fff;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   border-radius: 10px;
+}
+/* Paragraphs */
+p {
+   color: #555;
+   font-size: 1em;
+   margin-bottom: 15px;
+   text-align: justify;
+}
+/* Lists */
+ul {
+   list-style-type: disc;
+   margin-left: 20px;
+   padding-left: 20px;
+}
+li {
+   margin-bottom: 10px;
+}
+/* Buttons */
+button {
+   background-color: #1e90ff;
+   color: #fff;
+   border: none;
+   padding: 10px 15px;
+   cursor: pointer;
+   border-radius: 5px;
+   font-size: 1em;
+}
+button:hover {
+   background-color: #0059b3;
+}
+/* Footer */
+footer {
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 10px;
+   position: relative;
+   bottom: 0;
+   width: 100%;
+}
+/* Tables */
+table {
+   width: 100%;
+   border-collapse: collapse;
+   margin: 20px 0;
+   font-size: 0.9em;
+}
+table, th, td {
+   border: 1px solid #ddd;
+}
+th, td {
+   padding: 12px;
+   text-align: center;
+}
+th {
+   background-color: #1e90ff;
+   color: white;
+}
+td {
+   background-color: #f9f9f9;
+}
+/*images*/
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 100px;
+  box-shadow: 0 50px 50px rgba(0, 0, 0, 0.2);
+  display: block;
+  margin: 100px auto;
+}
+/* Media Queries for mobile */
+@media (max-width: 600px) {
+   nav a {
+       display: block;
+       margin: 5px 0;
+   }
+   main {
+       width: 95%;
+       padding: 10px;
+   }
+}
