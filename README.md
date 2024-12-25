@@ -148,3 +148,4 @@ Here we analyze the data to check how race/ethnicity factors affect the students
 ## 🔗 **More Information**
 
 For the rest of the questions, check out the **code in the repository!** 💻
+Also, you can visit our live site by clicking **[here](https://dima-rania.github.io/Group-Project/)**.
