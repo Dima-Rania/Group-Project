@@ -144,22 +144,26 @@ Here we analyze the data to check how race/ethnicity factors affect the students
 
 
 
+## 🌐 **Live Website**
+
+You can visit our live site by clicking **[here](https://dima-rania.github.io/Group-Project/)**.
+
 
 ## 🔗 **More Information**
 
 For the rest of the questions, check out the **code in the repository!** 💻
-Also, you can visit our live site by clicking **[here](https://dima-rania.github.io/Group-Project/)**.
+
 
 
 ## **References**
 
 In our project, we depend on many references and websites as follows:
 
-### Course's Book:
+### 📘 Course's Book:
 
 Nell Dale & John Lewis. (2019). Computer Science Illuminated, 7th Edition. Jones & Bartlett Learning.
 
-### Websites provided by the instructor in advance and others used through our research:
+### 🌐 Websites provided by the instructor in advance and others used through our research:
 
 - Abdulhamid Nahhas (Director). (2020, July 1). *طريقة رفع الملفات إلى GitHub باستخدام سطر الأوامر* [Video recording]. [https://www.youtube.com/watch?v=XKnlji2tRcM](https://www.youtube.com/watch?v=XKnlji2tRcM)
 - *Algorithm Design, Pseudocode and Python: Datalogical Thinking C3MDT1 B20H4 HT2024*. (n.d.). Retrieved December 24, 2024, from [https://hb.instructure.com/courses/8313/pages/algorithm-design-pseudocode-and-python?module_item_id=183292](https://hb.instructure.com/courses/8313/pages/algorithm-design-pseudocode-and-python?module_item_id=183292)
