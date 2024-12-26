@@ -165,7 +165,8 @@ Nell Dale & John Lewis. (2019). Computer Science Illuminated, 7th Edition. Jones
 
 ### 🌐 Websites provided by the instructor in advance and others used through our research:
 
-- Abdulhamid Nahhas (Director). (2020, July 1). *طريقة رفع الملفات إلى GitHub باستخدام سطر الأوامر* [Video recording]. [https://www.youtube.com/watch?v=XKnlji2tRcM](https://www.youtube.com/watch?v=XKnlji2tRcM)
+- *A Quick Introduction to GitHub: Datalogical Thinking C3MDT1 B20H4 HT2024.* (n.d.). Retrieved December 8, 2024, from [https://hb.instructure.com/courses/8313/pages/a-quick-introduction-to-github?module_item_id=183318]
+- *Abdulhamid Nahhas (Director).* (2020, July 1). *طريقة رفع الملفات إلى GitHub باستخدام سطر الأوامر* [Video recording]. [https://www.youtube.com/watch?v=XKnlji2tRcM](https://www.youtube.com/watch?v=XKnlji2tRcM)
 - *Algorithm Design, Pseudocode and Python: Datalogical Thinking C3MDT1 B20H4 HT2024*. (n.d.). Retrieved October 24, 2024, from [https://hb.instructure.com/courses/8313/pages/algorithm-design-pseudocode-and-python?module_item_id=183292](https://hb.instructure.com/courses/8313/pages/algorithm-design-pseudocode-and-python?module_item_id=183292)
 - *Free Git Tutorial - Git: Become an Expert in Git & GitHub in 4 Hours*. (n.d.). Udemy. Retrieved November 12, 2024, from [🔗 Udemy Course](https://www.udemy.com/course/git-expert-4-hours/)
 - *Free Python Tutorial - Advanced Python: Real-World Programming Deep Dive (2024)*. (n.d.). Udemy. Retrieved November 11, 2024, from [🔗 Udemy Course](https://www.udemy.com/course/python-for-advanced-learners-real-world-functional-programming/)
