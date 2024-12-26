@@ -155,7 +155,7 @@ For the rest of the questions, check out the **code in the repository!** 💻
 
 
 
-## **References**
+## 🌟 **References**
 
 In our project, we depend on many references and websites as follows:
 
