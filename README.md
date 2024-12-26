@@ -167,6 +167,8 @@ Nell Dale & John Lewis. (2019). Computer Science Illuminated, 7th Edition. Jones
 
 - Abdulhamid Nahhas (Director). (2020, July 1). *طريقة رفع الملفات إلى GitHub باستخدام سطر الأوامر* [Video recording]. [https://www.youtube.com/watch?v=XKnlji2tRcM](https://www.youtube.com/watch?v=XKnlji2tRcM)
 - *Algorithm Design, Pseudocode and Python: Datalogical Thinking C3MDT1 B20H4 HT2024*. (n.d.). Retrieved December 24, 2024, from [https://hb.instructure.com/courses/8313/pages/algorithm-design-pseudocode-and-python?module_item_id=183292](https://hb.instructure.com/courses/8313/pages/algorithm-design-pseudocode-and-python?module_item_id=183292)
+- *Free Git Tutorial - Git: Become an Expert in Git & GitHub in 4 Hours*. (n.d.). Udemy. Retrieved December 26, 2024, from [🔗 Udemy Course](https://www.udemy.com/course/git-expert-4-hours/)
+- *Free Python Tutorial - Advanced Python: Real-World Programming Deep Dive (2024)*. (n.d.). Udemy. Retrieved December 26, 2024, from [🔗 Udemy Course](https://www.udemy.com/course/python-for-advanced-learners-real-world-functional-programming/)
 - *HTML Elements*. (n.d.). Retrieved December 24, 2024, from [https://www.w3schools.com/html/html_elements.asp](https://www.w3schools.com/html/html_elements.asp)
 - *HTML Images*. (n.d.). Retrieved December 24, 2024, from [https://www.w3schools.com/html/html_images.asp](https://www.w3schools.com/html/html_images.asp)
 - *HTML Styles CSS*. (n.d.). Retrieved December 24, 2024, from [https://www.w3schools.com/html/html_css.asp](https://www.w3schools.com/html/html_css.asp)
